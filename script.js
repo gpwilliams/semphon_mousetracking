@@ -14,10 +14,10 @@ const study = lab.util.fromObject({
     }
   ],
   "metadata": {
-    "title": "",
+    "title": "Context Effects on Semantic and Phonological Competition in Mouse Tracking",
     "description": "",
-    "repository": "",
-    "contributors": ""
+    "repository": "https:\u002F\u002Fgithub.com\u002Fgpwilliams\u002Fsemphon_mousetracking",
+    "contributors": "Dr Glenn P. Williams \u003Cglenn.williams@sunderland.ac.uk\u003E (https:\u002F\u002Fglennwilliams.me\u002F)"
   },
   "files": {},
   "responses": {},

@@ -53,7 +53,7 @@
         ]
       },
       "title": "instructions",
-      "_tab": "Files"
+      "_tab": "Content"
     },
     "2": {
       "id": "2",
@@ -514,63 +514,54 @@
           },
           {
             "name": "word_loc",
-            "type": "string",
-            "shuffleGroup": "1"
+            "type": "string"
           },
           {
             "name": "w1_x",
-            "type": "string",
-            "shuffleGroup": "1"
+            "type": "string"
           },
           {
             "name": "w1_y",
-            "type": "string",
-            "shuffleGroup": "1"
+            "type": "string"
           },
           {
             "name": "w2_x",
-            "type": "string",
-            "shuffleGroup": "1"
+            "type": "string"
           },
           {
             "name": "w2_y",
-            "type": "string",
-            "shuffleGroup": "1"
+            "type": "string"
           },
           {
             "name": "w3_x",
-            "type": "string",
-            "shuffleGroup": "1"
+            "type": "string"
           },
           {
             "name": "w3_y",
-            "type": "string",
-            "shuffleGroup": "1"
+            "type": "string"
           },
           {
             "name": "w4_x",
-            "type": "string",
-            "shuffleGroup": "1"
+            "type": "string"
           },
           {
             "name": "w4_y",
-            "type": "string",
-            "shuffleGroup": 1
+            "type": "string"
           }
         ],
         "rows": [
           [
             "1",
-            "file",
-            "phial",
-            "record",
-            "corn",
+            "pie",
+            "pi",
+            "cake",
+            "dust",
             "sem_phon",
-            "01.mp3",
-            "1428",
-            "1916",
-            "2038",
-            "6038",
+            "05.mp3",
+            "1393",
+            "1997",
+            "2090",
+            "6090",
             "1",
             "-225",
             "-150",
@@ -583,16 +574,16 @@
           ],
           [
             "2",
-            "cellar",
-            "seller",
-            "basement",
-            "arena",
+            "file",
+            "phial",
+            "record",
+            "corn",
             "sem_phon",
-            "02.mp3",
-            "1649",
-            "2159",
-            "1959",
-            "5959",
+            "01.mp3",
+            "1428",
+            "1916",
+            "2038",
+            "6038",
             "2",
             "-225",
             "-150",
@@ -605,16 +596,16 @@
           ],
           [
             "3",
-            "mail",
-            "male",
-            "letter",
-            "earring",
+            "cellar",
+            "seller",
+            "basement",
+            "arena",
             "sem_phon",
-            "03.mp3",
-            "1927",
-            "2392",
-            "2194",
-            "6194",
+            "02.mp3",
+            "1649",
+            "2159",
+            "1959",
+            "5959",
             "3",
             "-225",
             "-150",
@@ -627,16 +618,16 @@
           ],
           [
             "4",
-            "war",
-            "wore",
-            "combat",
-            "sea",
+            "mail",
+            "male",
+            "letter",
+            "earring",
             "sem_phon",
-            "04.mp3",
-            "1602",
-            "2055",
-            "2429",
-            "6429",
+            "03.mp3",
+            "1927",
+            "2392",
+            "2194",
+            "6194",
             "4",
             "-225",
             "-150",
@@ -649,16 +640,16 @@
           ],
           [
             "5",
-            "pie",
-            "pi",
-            "cake",
-            "dust",
+            "war",
+            "wore",
+            "combat",
+            "sea",
             "sem_phon",
-            "05.mp3",
-            "1393",
-            "1997",
-            "2090",
-            "6090",
+            "04.mp3",
+            "1602",
+            "2055",
+            "2429",
+            "6429",
             "5",
             "-225",
             "-150",

@@ -514,39 +514,48 @@
           },
           {
             "name": "word_loc",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": "1"
           },
           {
             "name": "w1_x",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": "1"
           },
           {
             "name": "w1_y",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": "1"
           },
           {
             "name": "w2_x",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": "1"
           },
           {
             "name": "w2_y",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": "1"
           },
           {
             "name": "w3_x",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": "1"
           },
           {
             "name": "w3_y",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": "1"
           },
           {
             "name": "w4_x",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": "1"
           },
           {
             "name": "w4_y",
-            "type": "string"
+            "type": "string",
+            "shuffleGroup": 1
           }
         ],
         "rows": [

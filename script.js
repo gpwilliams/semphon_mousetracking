@@ -1108,7 +1108,19 @@ const study = lab.util.fromObject({
       "parameters": {},
       "messageHandlers": {},
       "title": "experiment_loop",
-      "shuffleGroups": [],
+      "shuffleGroups": [
+        [
+          "word_loc",
+          "w1_x",
+          "w1_y",
+          "w2_x",
+          "w2_y",
+          "w3_x",
+          "w3_y",
+          "w4_x",
+          "w4_y"
+        ]
+      ],
       "template": {
         "type": "lab.flow.Sequence",
         "files": {},
